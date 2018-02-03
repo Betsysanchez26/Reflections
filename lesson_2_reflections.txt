@@ -1,2 +1,4 @@
 ¿Qué sucede cuando inicializas un repositorio? ¿Por qué necesitas hacerlo?
 	Se crea el archivo .git que contendrá los commits
+¿En qué se diferencia el área de ensayo del directorio de trabajo y del repositorio? ¿Qué valor crees que ofrece?
+	Creo que el area de ensayo sirve para hacer modificaciones antes de hacer un commit
