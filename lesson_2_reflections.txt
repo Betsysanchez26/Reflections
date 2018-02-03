@@ -1,0 +1,2 @@
+¿Qué sucede cuando inicializas un repositorio? ¿Por qué necesitas hacerlo?
+	Se crea el archivo .git que contendrá los commits
