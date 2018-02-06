@@ -2,3 +2,6 @@
   Cuando necesite que otras personas contribuyan en mi proyecto, o que sea necesario acceder a mi proyecto desde cualquier lugar
 ¿Por qué podría querer siempre hacer cambios manualmente en lugar de tener a Git actualizado automáticamente con su repositorio remoto?
   Porque, estaria seguro de querer sincronizar los cambios en un punto donde esté listo para hacerlo.
+Describe las diferencias entre forks, clones y branches. ¿Cuándo usarías uno en lugar de otro?
+  Fork te permite clonar un repositorio dentro de github y editar esta copia en tu propio perfil sin afectar el repositorio original, mientras que una copia no se puede hacer dentro de github, se hace de github a la computadora o en la misma computadora pero todo el tiempo trabajando dentro del mismo repositorio, y las ramas permiten trabajar a partir de un repositorio, sin afectar el original pero siempre trbajando dentro del mismo y teniendo la oportuidad de hacer merge entre ramas en cualquier momento.  
+  
