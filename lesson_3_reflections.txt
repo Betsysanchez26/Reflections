@@ -4,4 +4,9 @@
   Porque, estaria seguro de querer sincronizar los cambios en un punto donde esté listo para hacerlo.
 Describe las diferencias entre forks, clones y branches. ¿Cuándo usarías uno en lugar de otro?
   Fork te permite clonar un repositorio dentro de github y editar esta copia en tu propio perfil sin afectar el repositorio original, mientras que una copia no se puede hacer dentro de github, se hace de github a la computadora o en la misma computadora pero todo el tiempo trabajando dentro del mismo repositorio, y las ramas permiten trabajar a partir de un repositorio, sin afectar el original pero siempre trbajando dentro del mismo y teniendo la oportuidad de hacer merge entre ramas en cualquier momento.  
-  
+¿Cuál es el beneficio de tener una copia del último estado conocido del control remoto almacenado localmente?
+  Poder acceder a el travez de los nuevos
+¿Cómo colaborarías sin usar Git o GitHub? ¿Qué sería más fácil y qué sería más difícil?
+  Compartiendo archivos con actualizados, pero esto resultaria más dificil
+¿Cuándo le gustaría hacer cambios en una rama separada en lugar de directamente en el maestro? ¿Qué beneficios tiene cada enfoque?
+  Creo que efectivamente es más complicado hacer cambios en una rama separada, pero se hizo por algún motivo, aunque no entendí completamente cual es.
